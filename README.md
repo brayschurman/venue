@@ -1,6 +1,6 @@
 # Venue
 - a VST plugin that has different environments
-    - pirated 128kbp rip
+    - pirated 128kbps rip
     - phone speaker
     - club
     - festival
