@@ -10,7 +10,7 @@ impl Plugin for Venue {
     fn get_info(&self) -> Info {
         Info {
             name: "Venue".to_string(),
-            unique_id: 39129,
+            unique_id: 19129,
             inputs: 0,
             outputs: 2,
             category: Category::Synth,
