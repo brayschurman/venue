@@ -6,4 +6,5 @@ a VST plugin that has different environments
 - phone speaker
 - club
 - festival
+- google home
 - car
